@@ -1,0 +1,4 @@
+[tool.odoo]
+addon_name = "website_sale_resource_booking"
+installable = true
+version = "18.0.1.0.0"
